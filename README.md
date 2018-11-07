@@ -1,5 +1,5 @@
 # Online_Handwritten_Mathematical_Formula_Detection
-# Online_Mathematical_Formula_Detection
+
 
 The Project aims at classifing, Segementing and Parsing Handwritten Mathematical Formula. 
 Input - The input to our Project is Handwritten Trace Points in the inkml format.
